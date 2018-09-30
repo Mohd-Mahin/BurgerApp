@@ -29,12 +29,6 @@ const images = [
         price: '$15'
     },
     {
-        id: 'burgerThree',
-        uri: require('../images/burger1.png'),
-        name: 'Wayback Burger',
-        price: '$20'
-    },
-    {
         id: 'burgerFour',
         uri: require('../images/burger2.jpg'),
         name: 'Wayback Burger',

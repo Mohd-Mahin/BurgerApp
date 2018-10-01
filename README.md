@@ -20,8 +20,11 @@ https://docs.google.com/uc?export=download&id=1trbwScHCp3UOsbrGwvY2QLdq6zCAP2gf
 
 
 IF FAILS TO INSTAL: (here needs to turn off the Securtiy mode)
+
   a) Go to play store
+  
   b) Toggle the drawer button and scroll down.
+  
   c) Tap on Play Protect and turn off "Scan device for security threats".
   
 This will run the app. 

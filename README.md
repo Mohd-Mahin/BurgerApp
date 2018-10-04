@@ -16,7 +16,7 @@ The app will run on your machine.
 Direct download for android.
 
 
-https://docs.google.com/uc?export=download&id=1trbwScHCp3UOsbrGwvY2QLdq6zCAP2gf
+https://docs.google.com/uc?export=download&id=1nWOskyNuQ8ss64Lkj0PKE_fXZ4bLDbW3
 
 
 IF FAILS TO INSTAL: (here needs to turn off the Securtiy mode)
